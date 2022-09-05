@@ -1,9 +1,12 @@
 # Image-classifier
 Buillding a hair-types image classifier with python and tenserflow.
-## Lirabraries:
--Tensorflow
--cv2
--matplotlib
--os
--imghdr
--numpy
+
+## Libraries:
+<ul>
+<li> Tensorflow</li>
+<li> cv2 </li>
+<li> matplotlib </li>
+<li> os </li>
+<li> imghdr </li>
+<li> numpy </li>
+</ul>
