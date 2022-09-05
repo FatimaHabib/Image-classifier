@@ -1,2 +1,9 @@
 # Image-classifier
-In this project I train  CNN to predict hair type given an 
+Buillding a hair-types image classifier with python and tenserflow.
+## Lirabraries:
+-Tensorflow
+-cv2
+-matplotlib
+-os
+-imghdr
+-numpy
