@@ -1,5 +1,5 @@
 # Image-classifier
-Buillding a hair-types image classifier with python and tenserflow.
+Buillding a hair-types CNN image classifier with python and tenserflow.
 
 ## Libraries:
 <ul>
